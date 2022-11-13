@@ -1,0 +1,4 @@
+D:\2М 3 семестр\Інформатика\Лз1_2\1\Project1\Project1\x64\Release\Project1.vcxproj.AssemblyReference.cache
+D:\2М 3 семестр\Інформатика\Лз1_2\1\Project1\Project1\x64\Release\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\2М 3 семестр\Інформатика\Лз1_2\1\Project1\Project1\x64\Release\Project1.MyForm.resources
+D:\2М 3 семестр\Інформатика\Лз1_2\1\Project1\Project1\x64\Release\Project1.vcxproj.GenerateResource.cache
